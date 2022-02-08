@@ -1,2 +1,2 @@
-# ML-Basics
-Introduction To Machine Learning Concepts - For Practice &amp; Learning
+# House Price Prediction
+House Price Prediction using Machine Learning
